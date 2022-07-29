@@ -43,6 +43,10 @@
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-764ABC.svg?logo=Redux&logoColor=white"></a>
     <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-000000.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
+    <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material_UI-007FFF.svg?logo=materialui&logoColor=white"></a>
+    <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     
     
@@ -56,6 +60,7 @@
     <a href="#"><img alt="My Sql" src="https://img.shields.io/badge/My_SQL%20-4479A1.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Mongo db" src="https://img.shields.io/badge/Mongo_DB%20-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="postgreSql" src="https://img.shields.io/badge/PostgreSQL%20-4169E1.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin%20-6C78AF.svg?logo=phpMyAdmin&logoColor=white"></a>
    
 </p>
 
@@ -67,7 +72,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FFDF18.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/Jira%20software-0052CC.svg?logo=jira-software&logoColor=white"></a>
+     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="JiraSoftware" src="https://img.shields.io/badge/Jira%20software-0052CC.svg?logo=jira-software&logoColor=white"></a>
     
 </p>
 
