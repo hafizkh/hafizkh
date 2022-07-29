@@ -3,9 +3,9 @@
 > Enthusiastic, Hardworking and love to build Project ranging Frontend to Backend in order to add values
 
 ## About Me:
-#### I am Hafiz, Developer, and Learner
-- 👀 I’m interested Full Stack Development
-- 🌱 I’m currently learning Backend Technologies
+#### I am Hafiz, Developer, and Learner and acquired Passion to be Full Stack Developer
+- 👀 I’m interested in Latest Technologies
+- 🌱 I’m currently learning Backend
 - 📫 Trying to improve myself continously 
 - 🥅 2022 Goals: To Build MERN Stack Projects
 
