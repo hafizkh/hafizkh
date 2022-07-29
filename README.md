@@ -2,17 +2,21 @@
 
 > Enthusiastic, Hardworking and love to build Project ranging Frontend to Backend in order to add values
 
-### About Me:
+## About Me:
 #### I am Hafiz, Developer, and Learner
 - 👀 I’m interested Full Stack Development
 - 🌱 I’m currently learning Backend Technologies
 - 📫 Trying to improve myself continously 
 - 🥅 2022 Goals: To Build MERN Stack Projects
 
-#### 🙋‍♂️ Connect with me:
+## 🙋‍♂️ Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid-6a0810225/)  [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
 
+## Profile visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hafizkh.hafizkh&left_color=green&right_color=blue)
+
+<br />
 ## 🔥 Streak stats
 
 <p align="left">
@@ -20,15 +24,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hafiz's streak" src="https://github-readme-streak-stats.herokuapp.com?user=hafizkh&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
-## 📊 Github stats
-<details>
-    <summary>💻GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/hafizkh/github-readme-stats"><img alt="Hafiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafizkh&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/hafizkh/github-readme-stats"><img alt="Hafiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizkh&layout=compact" height="192px"/></a>
-  <br/>
-</details>
 
 ## 🛠️ My favorite tools
 
@@ -77,7 +72,15 @@
     
 </p>
 
-#### Profile visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hafizkh.hafizkh&left_color=green&right_color=blue)
 
-<br />
+## 📊 Github stats
+<details>
+    <summary>💻GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/hafizkh/github-readme-stats"><img alt="Hafiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafizkh&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/hafizkh/github-readme-stats"><img alt="Hafiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizkh&layout=compact" height="192px"/></a>
+  <br/>
+</details>
+
+
+
