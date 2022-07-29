@@ -20,6 +20,7 @@
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="TypeScript" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB"/>
   <img  alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>  
+  <img  alt="sass" src="https://img.shields.io/badge/sass-%23593d88.svg?style=for-the-badge&logo=sass&logoColor=white"/>  
 </div>
 
 ### Backend
