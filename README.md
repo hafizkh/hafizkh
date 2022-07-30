@@ -20,7 +20,7 @@
 ## 🔥 Streak stats
 
 <p align="left">
-  <a href="https://github.com/Neeraj2002/github-readme-streak-stats">
+  <a href="https://github.com/hafizkh/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hafiz's streak" src="https://github-readme-streak-stats.herokuapp.com?user=hafizkh&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
