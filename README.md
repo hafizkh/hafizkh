@@ -3,7 +3,7 @@
 > Enthusiastic, Hardworking and love to build Projects ranging from Frontend to Backend
 
 ## About Me:
-#### I am Hafiz, Developer,Learner and Passionate to be Full Stack Developer
+#### I am Hafiz, Developer,Learner and Passionate to be Full Stack Developer | Integrify is there to help and achieve my dreams 
 - 👀 I’m interested in Latest Technologies
 - 🌱 I’m currently learning Backend
 - 📫 Trying to improve myself continously 
