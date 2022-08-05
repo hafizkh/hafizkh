@@ -2,9 +2,8 @@
 
 > Enthusiastic, Hardworking and love to build Projects ranging from Frontend to Backend
 
-
-### About Me:
-#### I am Hafiz, Developer,Learner and Passionate to be Full Stack Developer. Integrify is there to train me as Full Stack Dev to achieve my dreams in tech Industry
+## About Me:
+#### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer | Integrify is there to train me as Full Stack Dev and achieve my dreams in Tech Industry
 
 - 👀 I have keen interest in Latest Technologies
 - 🌱 Currently, I am working on Backend Project
@@ -13,7 +12,7 @@
 
 ## 🙋‍♂️ Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid-6a0810225/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid-6a0810225/)  [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
 
 ## :airplane: Profile visits
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=hafizkh.hafizkh&left_color=green&right_color=blue)
@@ -22,11 +21,10 @@
 ## 🔥 Streak stats
 
 <p align="left">
-  <a href="https://github.com/Neeraj2002/github-readme-streak-stats">
+  <a href="https://github.com/hafizkh/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hafiz's streak" src="https://github-readme-streak-stats.herokuapp.com?user=hafizkh&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
 
 ## 🛠️ My favorite tools
 
