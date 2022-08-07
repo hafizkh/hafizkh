@@ -6,7 +6,7 @@
 #### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer. Integrify is there to train me as Full Stack Dev and achieve my dreams in Tech Industry
 
 - 👀 I have keen interest in Latest Technologies
-- 🌱 Currently, I am working on Authentication_JWT Project
+- 🌱 Currently, I am working on E-Commerce Project
 - 📫 Trying to improve myself continously 
 - 🥅 2022 Goals: To Build MERN Stack Projects
 
