@@ -6,7 +6,7 @@
 #### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer. Integrify is there to train me as Full Stack Dev and achieve my dreams in Tech Industry
 
 - 👀 I have keen interest in Latest Technologies
-- 🌱 Currently, I am working on E-Commerce Project
+- 🌱 Currently, I am working on `Amazon Web Services` Module in the Academy
 - 📫 Trying to improve myself continously 
 - 🥅 2022 Goals: To Build MERN Stack Projects
 
@@ -40,6 +40,7 @@
     <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-000000.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
     <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI%20-007FFF.svg?logo=mui&logoColor=white"></a>
     <a href="#"><img alt="Power Shell" src="https://img.shields.io/badge/Power%20Shell%20-5391FE.svg?logo=powerShell&logoColor=white"></a>
