@@ -44,20 +44,26 @@
     <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Power Shell" src="https://img.shields.io/badge/Power%20Shell%20-5391FE.svg?logo=powerShell&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft%20SharePoint%20-0078D4.svg?logo=microsoftSharePoint&logoColor=white"></a>
-    <a href="#"><img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps%20-742774.svg?logo=powerApps&logoColor=white"></a>
-    <a href="#"><img alt="Power Virtual Agents" src="https://img.shields.io/badge/Power%20Virtual%20Agents%20-0B556A.svg?logo=powerAutomate&logoColor=white"></a>
-    <a href="#"><img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate%20-0066FF.svg?logo=powerVirtualAgents&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     
     
 </p>
 
-### 👨‍💻 Styling Framework / Library
+### Styling Framework / Library
 
 <p>
   <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
   <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI%20-007FFF.svg?logo=mui&logoColor=white"></a>
+</p>
+
+### Microsoft Power Plateform
+
+  <p>
+    <a href="#"><img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft%20Teams%20-6264A7.svg?logo=microsoftTeams&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft%20SharePoint%20-0078D4.svg?logo=microsoftSharePoint&logoColor=white"></a>
+    <a href="#"><img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps%20-742774.svg?logo=powerApps&logoColor=white"></a>
+    <a href="#"><img alt="Power Virtual Agents" src="https://img.shields.io/badge/Power%20Virtual%20Agents%20-0B556A.svg?logo=powerAutomate&logoColor=white"></a>
+    <a href="#"><img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate%20-0066FF.svg?logo=powerVirtualAgents&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
