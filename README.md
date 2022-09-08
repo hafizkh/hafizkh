@@ -1,20 +1,22 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">   
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 > Enthusiastic, Hardworking and love to build Projects ranging from Frontend to Backend
 
 ## About Me:
+
 #### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer. Integrify is there to train me as Full Stack Dev and achieve my dreams in Tech Industry
 
 - 👀 I have keen interest in Latest Technologies
 - 🌱 Currently, I am working on `Amazon Web Services` Module in the Academy
-- 📫 Trying to improve myself continously 
+- 📫 Trying to improve myself continously
 - 🥅 2022 Goals: To Build MERN Stack Projects
 
 ## 🙋‍♂️ Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid-6a0810225/)  [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid-6a0810225/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
 
 ## :airplane: Profile visits
+
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=hafizkh.hafizkh&left_color=green&right_color=blue)
 <br />
 
@@ -41,8 +43,6 @@
     <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-000000.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
-    <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI%20-007FFF.svg?logo=mui&logoColor=white"></a>
     <a href="#"><img alt="Power Shell" src="https://img.shields.io/badge/Power%20Shell%20-5391FE.svg?logo=powerShell&logoColor=white"></a>
     <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft%20SharePoint%20-0078D4.svg?logo=microsoftSharePoint&logoColor=white"></a>
     <a href="#"><img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps%20-742774.svg?logo=powerApps&logoColor=white"></a>
@@ -53,7 +53,12 @@
     
 </p>
 
+### 👨‍💻 Styling Framework / Library
 
+<p>
+  <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
+  <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI%20-007FFF.svg?logo=mui&logoColor=white"></a>
+</p>
 
 ### 🗄️ Databases
 
@@ -80,6 +85,7 @@
 </p>
 
 ## 📊 Github stats
+
 <details>
     <summary>💻GitHub Profile Stats</summary>
   <br/>
