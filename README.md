@@ -45,8 +45,8 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Power Shell" src="https://img.shields.io/badge/Power%20Shell%20-5391FE.svg?logo=powerShell&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    
 </p>
+
 ### Styling Tools
 <p>
   <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
