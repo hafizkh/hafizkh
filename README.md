@@ -86,6 +86,7 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/Jira%20software-0052CC.svg?logo=jira-software&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
+    <a href="#"><img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000.svg?logo=robotframework&logoColor=white"></a>
     
 </p>
 
