@@ -17,7 +17,7 @@
 
 ## :airplane: Profile visits
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=hafizkh.hafizkh&left_color=green&right_color=blue)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhafizkh&countColor=%23263759&style=plastic&labelStyle=upper)
 <br />
 
 ## 🔥 Streak stats
