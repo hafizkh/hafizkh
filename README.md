@@ -7,9 +7,9 @@
 #### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer. Integrify is there to train me as Full Stack Dev and achieve my dreams in Tech Industry
 
 - 👀 I have keen interest in Latest Technologies
-- 🌱 Currently, I am working on `Amazon Web Services` Module in the Academy
+- 🌱 Currently, I am working on `Startup Project` using MERN.
 - 📫 Trying to improve myself continously
-- 🥅 2022 Goals: To Build MERN Stack Projects
+- 🥅 2023 Goals: To Build MERN Stack Projects
 
 ## 🙋‍♂️ Connect with me:
 
