@@ -4,7 +4,7 @@
 
 ## About Me:
 
-#### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer. Integrify is there to train me as Full Stack Dev and achieve my dreams in Tech Industry
+#### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer and to solve the real life problems by MERN.
 
 - 👀 I have keen interest in Latest Technologies
 - 🌱 Currently, I am working on `Startup Project` using MERN.
