@@ -48,11 +48,13 @@
 </p>
 
 ### Styling Tools
+
 <p>
   <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
   <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI%20-007FFF.svg?logo=mui&logoColor=white"></a>
   <a href="#"><img alt="ChakraUI" src="https://img.shields.io/badge/Chakra%20UI%20-319795.svg?logo=chakraui&logoColor=white"></a>
   <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-CC6699.svg?logo=sass&logoColor=white"></a>
+  <a href="#"><img alt="TailWind CSS" src="https://img.shields.io/badge/Tailwind CSS%20-06B6D4.svg?logo=Tailwindcss&logoColor=white"></a>
 </p>
 
 ### Microsoft Power Plateform
