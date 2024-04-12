@@ -1,26 +1,66 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-> Enthusiastic, Hardworking and love to build Projects ranging from Frontend to Backend
+I'm Hafiz, a passionate developer with a keen interest in building projects from frontend to backend using the latest technologies.
 
-## About Me:
+🌱 Currently, I'm working on a startup project using the MERN stack.
 
-#### I am Hafiz, Developer, Learner, and Passionate to be Full Stack Developer and to solve the real life problems by MERN.
+🔭 I’m currently focusing on enhancing my skills as a Full Stack Developer.
 
-- 👀 I have keen interest in Latest Technologies
-- 🌱 Currently, I am working on `Startup Project` using MERN.
-- 📫 Trying to improve myself continously
-- 🥅 2023 Goals: To Build MERN Stack Projects
+🥅 2024 Goals: To build impactful projects and contribute to open source.
 
-## 🙋‍♂️ Connect with me:
+## 🚀 Skills & Expertise
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid-6a0810225/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
+### Frontend Development
 
-## :airplane: Profile visits
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux" />
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhafizkh&countColor=%23263759&style=plastic&labelStyle=upper)
-<br />
+### Backend Development
 
-## 🔥 Streak stats
+- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+- <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+
+### Databases
+
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+### Styling Tools
+
+- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
+- <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=material-ui&logoColor=white" alt="Material UI" />
+- <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+- <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+### Other Tools & Technologies
+
+- <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+- <img src="https://img.shields.io/badge/Postman-FFDF18?style=flat-square&logo=postman&logoColor=black" alt="Postman" />
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+### Microsoft Power Platform
+
+- <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftTeams&logoColor=white" alt="Microsoft Teams" />
+- <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat-square&logo=microsoftSharePoint&logoColor=white" alt="Microsoft SharePoint" />
+- <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerApps&logoColor=white" alt="Power Apps" />
+- <img src="https://img.shields.io/badge/Power_Virtual_Agents-0B556A?style=flat-square&logo=powerVirtualAgents&logoColor=white" alt="Power Virtual Agents" />
+- <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerAutomate&logoColor=white" alt="Power Automate" />
+- <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+
+### Testing
+
+- <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+- <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework" />
+
+## 🔥 Streak Stats
 
 <p align="left">
   <a href="https://github.com/hafizkh/github-readme-streak-stats">
@@ -28,77 +68,7 @@
   </a>
 </p>
 
-## 🛠️ My favorite tools
+## 📫 Connect with Me
 
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-61DAFB.svg?logo=react&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-3178C6.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-764ABC.svg?logo=Redux&logoColor=white"></a>
-    <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-000000.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a> -->
-    <a href="#"><img alt="Power Shell" src="https://img.shields.io/badge/Power%20Shell%20-5391FE.svg?logo=powerShell&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-</p>
-
-### Styling Tools
-
-<p>
-  <a href="#"><img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3.svg?logo=BootStrap&logoColor=white"></a>
-  <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI%20-007FFF.svg?logo=mui&logoColor=white"></a>
-  <a href="#"><img alt="ChakraUI" src="https://img.shields.io/badge/Chakra%20UI%20-319795.svg?logo=chakraui&logoColor=white"></a>
-  <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-CC6699.svg?logo=sass&logoColor=white"></a>
-  <a href="#"><img alt="TailWind CSS" src="https://img.shields.io/badge/Tailwind CSS%20-06B6D4.svg?logo=Tailwindcss&logoColor=white"></a>
-</p>
-
-### Microsoft Power Plateform
-
-  <p>
-    <a href="#"><img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft%20Teams%20-6264A7.svg?logo=microsoftTeams&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft%20SharePoint%20-0078D4.svg?logo=microsoftSharePoint&logoColor=white"></a>
-    <a href="#"><img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps%20-742774.svg?logo=powerApps&logoColor=white"></a>
-    <a href="#"><img alt="Power Virtual Agents" src="https://img.shields.io/badge/Power%20Virtual%20Agents%20-0B556A.svg?logo=powerVirtualAgents&logoColor=white"></a>
-    <a href="#"><img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate%20-0066FF.svg?logo=powerAutomate&logoColor=white"></a>
-    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI%20-F2C811.svg?logo=powerbi&logoColor=black"></a>
-</p>
-
-### 🗄️ Databases
-
-<p>
-    <a href="#"><img alt="My Sql" src="https://img.shields.io/badge/My_SQL%20-4479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Mongo db" src="https://img.shields.io/badge/Mongo_DB%20-47A248.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="postgreSql" src="https://img.shields.io/badge/PostgreSQL%20-4169E1.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin%20-6C78AF.svg?logo=phpMyAdmin&logoColor=white"></a>
-   
-</p>
-
-### 💻 Additional Tools
-
-<p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intelliJ-Idea&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FFDF18.svg?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/Jira%20software-0052CC.svg?logo=jira-software&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
-    <a href="#"><img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000.svg?logo=robotframework&logoColor=white"></a>
-    
-</p>
-
-## 📊 Github stats
-
-<details>
-    <summary>💻GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/hafizkh/github-readme-stats"><img alt="Hafiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafizkh&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/hafizkh/github-readme-stats"><img alt="Hafiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizkh&layout=compact" height="192px"/></a>
-  <br/>
-</details>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-javid/)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hafizjavid471@gmail.com)
