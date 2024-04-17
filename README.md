@@ -6,7 +6,7 @@
 
 🔭 I’m currently focusing on enhancing my skills as a Full Stack Developer.
 
-🥅 2024 Goals: To build impactful projects and contribute to open source.
+🥅 2024 Goals: To build impactful projects and contribute to open sources.
 
 ## 🚀 Skills & Expertise
 
