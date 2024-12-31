@@ -8,7 +8,7 @@ I'm **Hafiz**, a **Full Stack Developer** specializing in the **MERN stack**. I 
 
 - **Startup Project** – Building a service-oriented architecture using the **MERN** stack.
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 - **Influential Projects** – Develop and deploy high-impact full stack solutions.
 - **Open Source Contributions** – Actively contribute to and maintain open-source repositories.
