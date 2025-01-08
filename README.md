@@ -74,13 +74,13 @@ I'm **Hafiz**, a **Full Stack Developer** specializing in the **MERN stack**. I 
 
 ---
 
-## 🔥 GitHub Streak Stats
+<!-- ## 🔥 GitHub Streak Stats
 
 <p align="left">
   <a href="https://github.com/hafizkh/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hafizkh&theme=monokai-metallian&hide_border=true" alt="Hafiz's Streak Stats" />
   </a>
-</p>
+</p> -->
 
 ---
 
