@@ -82,7 +82,7 @@ I'm **Hafiz**, a **Full Stack Developer** specializing in the **MERN stack**. I 
   </a>
 </p> -->
 
----
+<!-- --- -->
 
 ## 💬 Connect with Me
 
